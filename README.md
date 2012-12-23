@@ -1,8 +1,5 @@
 # CrushMeter
 
-A simple Windows Phone 7 app that displays a color according to the position of
-your finger on the screen.
-
 Yet another love compatibility checker for Windows Phone 7. On the Windows Phone
 marketplace (I don't know how long it'll stay there):
 [CrushMeter](http://www.windowsphone.com/en-us/store/app/crushmeter/dabc1035-4285-4e92-9549-6c8e3fce3312)
