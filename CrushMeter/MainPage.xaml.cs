@@ -74,13 +74,8 @@ namespace CrushMeter
             string descr = "Your relationship is : " + adjectives[index];
 
 
-            // Small corner cases :)
-            if ((a.Equals("anaelle") || a.Equals("anaëlle")) && b.Equals("lucas"))
-            {
-                val = 99.9;
-                descr = "We're just awesome!!!";
-            }
-            else if (a.Equals("aline") && b.Equals("nicolas"))
+            // Small corner case :)
+            if (a.Equals("aline") && b.Equals("nicolas"))
             {
                 val = 100;
                 descr = "And they lived happily ever after...";
